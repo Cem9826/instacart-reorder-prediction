@@ -1,4 +1,0 @@
-band,n_rows,n_purchased,actual_rate,avg_proba,pct_of_rows,pct_of_purchases
-low,911119,31727,0.0348,0.0346,0.7191,0.2547
-incremental,317753,68262,0.2148,0.2137,0.2508,0.5479
-obvious,38219,24590,0.6434,0.6414,0.0302,0.1974
