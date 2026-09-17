@@ -1,0 +1,5 @@
+metric,value
+Test F1,0.3777
+Pct of ceiling,54.1
+AUC,0.8378
+Calibration error,0.0007
